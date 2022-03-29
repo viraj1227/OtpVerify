@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OtpVerify</string>
+    <string name="resend_otp">Resend Otp</string>
+</resources>
